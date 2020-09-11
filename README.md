@@ -1,4 +1,4 @@
-# Python Challenges
+# Challenges Notebooks
 
 ## Prepare the environment
 
