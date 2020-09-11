@@ -1,4 +1,4 @@
-# Challenges Notebooks
+# Challenges
 
 ## Prepare the environment
 
